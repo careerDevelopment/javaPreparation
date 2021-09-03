@@ -1,5 +1,6 @@
 ## Java Interview Preparation
 
+### Table of Contents
 | No. | Questions |
 | --- | --------- |
 |   | **Java 8** |
@@ -26,15 +27,15 @@
     
 2. ### Java 8 new Features?
     <ol type='1'>
-    <li> <b style='color:yellow'>Lambda expressions</b> </li>
-    <li> Functional interface </li>
-    <li> <mark>Stream API</mark> </li>
+    <li> <p title='Enables Functional programming in Java'><b>Lambda expressions</b></p> </li>
+    <li> <b>Functional interface</b> </li>
+    <li> <b>Stream API</b> </li>
     <li> Default Methods in the interface </li>
     <li> Static methods </li>
-    <li>Pptional class</li>
-    <li>Method references</li>
-    <li>Date API</li>
-    <li>Nashorn JavaScript Engine</li>
+    <li> Optional class </li>
+    <li> Method references </li>
+    <li> Date API </li>
+    <li> Nashorn JavaScript Engine </li>
     </ol>
 
    **[⬆ Back to Top](#table-of-contents)**
