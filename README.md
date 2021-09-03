@@ -3,8 +3,8 @@
 | No. | Questions |
 | --- | --------- |
 |   | **Java 8** |
-|1  | [ Why java 8?](#why-java-8) | 
-|2  | [What you like and dislike in react?](#What-you-like-and-dislike-in-react) |
+|1  | [Why java 8?](#why-java-8) | 
+|2  | [Java 8 new Features?](#java-8-new-features) |
 |3  | [condtional rendering and list rendering in react?](#conditional-list-rendering-in-react) |
 |4  | [Class components life cycle methods along with new lifecycle methods(after 16.8) in react?](#class-component-life-cycle-in-react) |
 |5  | [Context API in react?](#context-api-in-react) |
@@ -24,7 +24,18 @@
 
    **[⬆ Back to Top](#table-of-contents)**
     
-2. ### What you like and dislike in react?
+2. ### Java 8 new Features?
+    <ol type='1'>
+    <li> <b style='color:yellow'>Lambda expressions</b> </li>
+    <li> Functional interface </li>
+    <li> <mark>Stream API</mark> </li>
+    <li> Default Methods in the interface </li>
+    <li> Static methods </li>
+    <li>Pptional class</li>
+    <li>Method references</li>
+    <li>Date API</li>
+    <li>Nashorn JavaScript Engine</li>
+    </ol>
 
    **[⬆ Back to Top](#table-of-contents)**
 
