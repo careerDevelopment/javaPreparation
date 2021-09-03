@@ -6,8 +6,8 @@
 |   | **Java 8** |
 |1  | [Why java 8?](#why-java-8) | 
 |2  | [Java 8 new Features?](#java-8-new-features) |
-|3  | [condtional rendering and list rendering in react?](#conditional-list-rendering-in-react) |
-|4  | [Class components life cycle methods along with new lifecycle methods(after 16.8) in react?](#class-component-life-cycle-in-react) |
+|3  | [Java 8 main advantages?](#java-8-main-advantages) |
+|4  | [Lambda expressions in java 8?](#java-8-lambda-expressions) |
 |5  | [Context API in react?](#context-api-in-react) |
 |6  | [Hooks in react?](#hooks-in-react) |
 |7  | [Optimization Techniques in react?](#optimization-techniques-in-react) |
@@ -40,5 +40,43 @@
 
    **[⬆ Back to Top](#table-of-contents)**
 
+3. ### Java 8 main advantages?
+    <ol type='1'>
+    <li> <b title='Less boilder plate code'>Compact Code</b></li>
+    <li> <b>More readable and reusable code</b> </li>    
+    <li> More testable code </li>
+    <li> Parellel operations </li>
+    </ol>
+
+   **[⬆ Back to Top](#table-of-contents)**
+   
+ 4. ### Java 8 Lambda Expressions?
+    <ol type='1'>
+    <li> <b title='Without name,return type and access modifiers and having one lambda(->)'>Lambda expression is an anonymous function(Without name,return type and access modifiers and having one lambda(->))</b></li>
+    <li> 
+        <ol>
+        <li><b>Normal programming Technique</b>
+        <pre>
+            <code>
+                public int add(int a ,int b){                
+                    return(a+b);
+                }
+            </code>
+        </pre>
+        </li>
+        <li>
+        <b>Equivalent Lambda Expressions</b>
+        
+        <pre>
+            <code>
+               (a,b)-> (a+b);
+             </code>
+        </pre>
+        </li>
+        </ol>
+    </li>    
+    </ol>
+
+   **[⬆ Back to Top](#table-of-contents)**
 
 
