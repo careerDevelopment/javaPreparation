@@ -27,7 +27,7 @@
     
 2. ### Java 8 new Features?
     <ol type='1'>
-    <li> <p title='Enables Functional programming in Java'><b>Lambda expressions</b></p> </li>
+    <li> <b title='Enables Functional programming in Java'>Lambda expressions</b></li>
     <li> <b>Functional interface</b> </li>
     <li> <b>Stream API</b> </li>
     <li> Default Methods in the interface </li>
